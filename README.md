@@ -43,8 +43,9 @@ This application provides an intuitive and interactive way to visualize and anal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tabishfarhan7/cpuScheduler.git
-   cd cpuScheduler
+   git clone https://github.com/tabishfarhan7/CPU-Scheduler-Simulator.git
+   cd CPU-Scheduler-Simulator
+
    ```
 
 2. Install dependencies:
